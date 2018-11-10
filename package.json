@@ -2,7 +2,7 @@
   "name": "maletkhao",
   "version": "1.0.0",
   "description": "An API that maletkhao on Facebook Messenger",
-  "repository": "https://github.com/nuieskater/malet.git",
+  "repository": "https://github.com/nuieskater/chatbot.git",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
