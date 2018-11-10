@@ -2,7 +2,7 @@
   "name": "maletkhao",
   "version": "1.0.0",
   "description": "An API that maletkhao on Facebook Messenger",
-  "repository": "https://github.com/SiddAjmera/NewsAPIForChatfuel.git",
+  "repository": "https://github.com/nuieskater/malet.git",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,15 +11,15 @@
   "keywords": [
     "news",
     "api",
-    "SiddAjmera",
+    "nuieskater",
     "Chatfuel",
     "facebook",
     "Facebook",
     "Messenger",
     "Messenger"
   ],
-  "author": "Siddharth Ajmera (SiddAjmera)",
-  "license": "ISC",
+  "author": "nuieskater nuieskater (nuieskater)",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
